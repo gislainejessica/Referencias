@@ -1,4 +1,4 @@
-# Node.js
+# Tecnologias para auxiliar o desenvolvimento de aplicações Node.js
 **Primeiros passos**:
 * `npm init`
 * *npm scripts* como o `nodemon` usar para desenvolvimento. 
