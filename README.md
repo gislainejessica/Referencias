@@ -7,3 +7,7 @@
 [Clean Code](https://github.com/gislainejessica/Referencias/blob/master/CleanCode.md) 
 
 [GraphQL](https://github.com/gislainejessica/Referencias/blob/master/Graphql.md)
+
+[Iniciando com Git](https://github.com/gislainejessica/referencias/blob/master/Git.md)
+
+[Conceitos Basicos de Prototipação](https://github.com/gislainejessica/referencias/blob/master/Prototipacao.md)
