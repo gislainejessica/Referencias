@@ -20,6 +20,6 @@
   - 'style': Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
   - 'test': Adding missing tests or correcting existing tests
 
-- ## Descriptions
+- ## Footer
 
 - 'BREAKING CHANGE': Major change, that makes something not work, partial or total, compare to the previews version.
