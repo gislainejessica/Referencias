@@ -49,3 +49,5 @@
 
 - Conceitos avançados de Graphql
 
+Tenho que colocar algumas datas limites para cada post 
+
