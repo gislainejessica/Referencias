@@ -82,7 +82,9 @@ ferramentas ajudam nesse processo.
  * **Deploy** (pensar em escalabilidade)
    * `Docker`
    * `PM2`
-  
+   * `Kubernetes`
+   * `Google Cloud`
+   
  * **Performace**
   
       `Performance Timing API` (Node.js) e `Chrome Dev Tools`
