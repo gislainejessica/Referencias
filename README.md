@@ -13,3 +13,5 @@
 [Conceitos Basicos de Prototipação](https://github.com/gislainejessica/referencias/blob/master/Prototipacao.md)
 
 [React Hooks](https://github.com/gislainejessica/referencias/blob/master/ReactHooks.md)
+
+[Docker](https://github.com/jessycode/referencias/blob/master/Infraestrutura.md)
