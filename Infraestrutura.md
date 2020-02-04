@@ -18,7 +18,15 @@
 
 ## 2) Salvando a imagem no Docker Hub
 
-### Push da imagem no DockerHub
+- Vamos fazer login no nosso Docker Hub pra poder salvar as imagens
+  
+  `docker login -u seu_usuário_dockerhub -p senha_do_usuário_dockerhub`
 
+Obs.: **_Imagem criada localmente tem que ter nome igual ao que esta no seu repositório do DockerHub_** 
+
+### Push da imagem no DockerHub
+    
+    `sudo docker push image/teste`  
+    
 - Fazer deploy do DockerHub e no Container Register do Google cloud
 
