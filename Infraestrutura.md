@@ -19,3 +19,6 @@
 ## 2) Salvando a imagem no Docker Hub
 
 ### Push da imagem no DockerHub
+
+- Fazer deploy do DockerHub e no Container Register do Google cloud
+
