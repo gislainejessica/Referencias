@@ -30,3 +30,6 @@ Obs.: **_Imagem criada localmente tem que ter nome igual ao que esta no seu repo
     
 - Fazer deploy do DockerHub e no Container Register do Google cloud
 
+
+Istio + Kubernetes + Docker
+
