@@ -37,3 +37,4 @@
     5 import * as
     6 import '<algum arquivo>.<extensão>'`
 
+- Menos comentários
