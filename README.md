@@ -1,4 +1,5 @@
 # Referências
+Textos resumido para estudo posterior
 
 [Boas Práticas em React](https://github.com/gislainejessica/Referencias/blob/master/BoasPraticasReact.md)
 
