@@ -17,5 +17,5 @@ Textos resumido para estudo posterior
 
 [Docker](https://github.com/jessycode/referencias/blob/master/Infraestrutura.md)
 
-[UX-UI](https://github.com/jessycode/referencias/blob/master/UX-UI.md)
+[UX-UI](https://github.com/gislainejessica/referencias/blob/master/UX-UI.md)
 
