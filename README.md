@@ -16,3 +16,6 @@ Textos resumido para estudo posterior
 [React Hooks](https://github.com/gislainejessica/referencias/blob/master/ReactHooks.md)
 
 [Docker](https://github.com/jessycode/referencias/blob/master/Infraestrutura.md)
+
+[UX-UI](https://github.com/jessycode/referencias/blob/master/UX-UI.md)
+
