@@ -3,3 +3,6 @@
 - Quais as tarefas?
 - Em quais subtarefas devo focar primeiro?
 - Tempo de descanso
+
+
+# Definir interações com companheiros
