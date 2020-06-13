@@ -1,5 +1,8 @@
 # Referências
-Textos resumido para estudo posterior
+<img alt="GoStack" src="https://pngimage.net/wp-content/uploads/2018/06/maquina-de-escrever-tumblr-png-3.png" />
+
+<blockquote align="center">“Saber de cor não é saber: é conservar aquilo que se deu a guardar à memória. Michel de Montaigne”!</blockquote>
+
 
 [Boas Práticas em React](https://github.com/gislainejessica/Referencias/blob/master/BoasPraticasReact.md)
 
