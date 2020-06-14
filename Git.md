@@ -33,24 +33,16 @@
   br = branch
   co = checkout
 `
-alias ga='git add'
-
-alias gc='git commit -v'
-
-alias gd='git diff'
-
-alias gst='git status'
-
-alias gco='git checkout'
-
-alias gcm='git checkout master'
-
-alias gb='git branch'
-
-alias gbr='git branch --remote'
-
-alias gup='git pull --rebase'
-
-alias gp='git push'
-
-alias gpsup='git push --set-upstream origin $(git_current_branch)'
+```terminal
+    alias ga='git add'
+    alias gc='git commit -v'
+    alias gd='git diff'
+    alias gst='git status'
+    alias gco='git checkout'
+    alias gcm='git checkout master'
+    alias gb='git branch'
+    alias gbr='git branch --remote'
+    alias gup='git pull --rebase'
+    alias gp='git push'
+    alias gpsup='git push --set-upstream origin $(git_current_branch)'
+```
