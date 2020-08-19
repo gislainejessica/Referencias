@@ -9,3 +9,7 @@
  - **Adobe Xd**
  - **Maze** 
  - **Whimsical**
+
+- Quando o usuário acessa uma determinada aplicação, ele espera um feedback imediato, senão a experiência torna-se insatisfatôria
+
+- **Skeleton** no react ajuda, mostrando componetes animados na tela, dando o sianl visual de que as coisas estão funcionando.
