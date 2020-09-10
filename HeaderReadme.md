@@ -20,6 +20,27 @@
 
 ##  About me
 
+*Desenvolvedora de Software* 
+
+Entusiasta em Tecnologias Mobile e Desenvolvimento Web. 
+
+Curiosa por natureza, gosto de está sempre buscando por coisas novas que me ajudem a melhorar
+as aplicações que desenvolvo ou mesmo criar novas soluções. 
+
+Tenho estudado sobre UI/UX, uma area fascinante que tem me ajudado muito no meu desenvolovimento em front-end.
+
+
+- ⚡ Atualmente estudando animações em React-Native, StoryBook e Cypress.
+
+- 💬 Podemos conversar sobre *Tecnologia*, *_Mindfulness_* e _Séries_.
+
+- 📫 Pode me encontrar em: _gislainehjessica@gmail.com_.
+
+- :notes: Fun fact: Eu amo ouvir músicas em idiomas que não conheço e tentar entender alguma coisa, na maioria das vezes não entendo uma palavra, mas pelo menos me ajuda a dormir.
+
+> "Se você não consegue explicar algo de forma simples, você não entendeu suficientemente bem."
+― Albert Einstein
+
 
 [![Twitter](https://img.shields.io/twitter/follow/jessy_code?color=twitter&label=%40jessy_code&logo=twitter&logoColor=white&style=flat)](https://twitter.com/jessy_code)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gislainejessica/)
