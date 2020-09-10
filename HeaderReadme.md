@@ -2,12 +2,18 @@
 #### Sintam-se a vontade para contribuir e interagir 🇧🇷
 
 <p>   
+   <img src="https://img.shields.io/badge/Mobile-React Native-f55247"/>
   <img src="https://img.shields.io/badge/Front End-React-f55247"/>
-    <img src="https://img.shields.io/badge/Back End-NodeJs-f55247"/>
-<a href="https://github.com/gislainejessica/"><img src="https://img.shields.io/github/followers/gislainejessica?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+  <img src="https://img.shields.io/badge/Back End-NodeJs-f55247"/>
+  
+  <a href="https://github.com/gislainejessica/">
+    <img src="https://img.shields.io/github/followers/gislainejessica?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
+  </a>
+  
   <img src="http://views.whatilearened.today/views/github/gislainejessica/views.svg"/> 
-    <a href="https://github.com/gislainejessica?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-
+  <a href="https://github.com/gislainejessica?tab=repositories">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
+  </a>
 </p>
  
 
@@ -18,7 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&theme=graywhite&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-##  About me
+##  Sobre mim
 
 *Desenvolvedora de Software* 
 
@@ -36,7 +42,7 @@ Tenho estudado sobre UI/UX, uma area fascinante que tem me ajudado muito no meu 
 
 - 📫 Pode me encontrar em: _gislainehjessica@gmail.com_.
 
-- :notes: Fun fact: Eu amo ouvir músicas em idiomas que não conheço e tentar entender alguma coisa, na maioria das vezes não entendo uma palavra, mas pelo menos me ajuda a dormir.
+- :notes: Curiosidade: amo ouvir músicas em idiomas aleatórios.
 
 > "Se você não consegue explicar algo de forma simples, você não entendeu suficientemente bem."
 ― Albert Einstein
