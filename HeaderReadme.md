@@ -10,12 +10,10 @@
 Me chamo Gislaine Jéssica nascida no Brazil (🇧🇷). 
 
 
-![Gislaine's github stats](https://github-readme-stats.vercel.app/api?username=gislainejessica&show_icons=true&theme=radical)
+![Gislaine's github stats](https://github-readme-stats.vercel.app/api?username=gislainejessica&show_icons=true&theme=graywhite)
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gislainejessica&theme=graywhite&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -23,9 +21,9 @@ Me chamo Gislaine Jéssica nascida no Brazil (🇧🇷).
 
 - Name: Gislaine Jéssica
 - Pronouns: she/her
-- Twitter: [@jessy_code](https://twitter.com/jessy_code)
-- LinkedIn: [https://www.linkedin.com/in/gislainejessica](https://www.linkedin.com/in/gislainejessica)
 
-
+[![Twitter](https://img.shields.io/twitter/follow/jessy_code?color=twitter&label=%40jessy_code&logo=twitter&logoColor=white&style=flat)](https://twitter.com/jessy_code)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gislainejessica/)
+[<img src="https://img.shields.io/github/followers/gislainejessica?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gislainejessica) 
 
 
