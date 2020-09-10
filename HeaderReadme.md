@@ -1,10 +1,9 @@
-### Ola 👋
-
- <p>   <img src="http://views.whatilearened.today/views/github/gislainejessica/views.svg"/> 
+### Ola, mundo! 👋
   <img src="https://img.shields.io/badge/Front End-React-f55247"/>
-    <img src="https://img.shields.io/badge/Back End-NodeJs | Java-f55247"/>
-<a href="https://github.com/Kamilahsantos/"><img src="https://img.shields.io/github/followers/gislainejessica?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-    <a href="https://github.com/Kamilahsantos?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
+    <img src="https://img.shields.io/badge/Back End-NodeJs-f55247"/>
+<a href="https://github.com/gislainejessica/"><img src="https://img.shields.io/github/followers/gislainejessica?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/gislainejessica?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
+ <p>   <img src="http://views.whatilearened.today/views/github/gislainejessica/views.svg"/> 
 
 
 Me chamo Gislaine Jéssica nascida no Brazil (🇧🇷). 
