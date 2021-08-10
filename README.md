@@ -35,3 +35,5 @@
 [Infra](https://github.com/gislainejessica/referencias/blob/master/Infraestrutura.md)
 
 [Vault](https://github.com/gislainejessica/referencias/blob/master/Infra_as_Code_Vault.md)
+
+[Terraform](https://github.com/gislainejessica/referencias/blob/master/terraform.md)
